@@ -3,7 +3,7 @@
 
 * Environment: MAC OS X Yosemite 10.10.5
 * Run the program: 
-  `python3 2~4.py`
+  `python3 1~4.py`
   `python3 11~16.py [problem_no]`
 * Comments:
 	* Problem 11 ~ 16 will generate graph with filename `[problem_no].png`

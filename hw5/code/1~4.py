@@ -1,4 +1,4 @@
-# ML2017 problem 2. ~ 4.
+# ML2017 problem 1. ~ 4.
 
 from sklearn import svm
 import numpy as np
